@@ -1,0 +1,40 @@
+{
+  "Covid": [
+    {
+      "Rank": "1",
+      "Total Case": "82789716",
+      "Population": "334522343",
+      "Percent": "24.748635698752118",
+      "country": "USA"
+    },
+    {
+      "Rank": "2",
+      "Total Case": "43065666",
+      "Population": "1404606308",
+      "Percent": "3.0660310832094027",
+      "country": "India"
+    },
+    {
+      "Rank": "3",
+      "Total Case": "30378061",
+      "Total Recover": "",
+      "Population": "215299307",
+      "Percent": "14.109688239730378",
+      "country": "Brazil"
+    },
+    {
+      "Rank": "4",
+      "Total Case": "28415413",
+      "Population": "65535419",
+      "Percent": "43.3588637008638",
+      "country": "France"
+    },
+    {
+      "Rank": "5",
+      "Total Case": "24363379",
+      "Population": "84269739",
+      "Percent": "28.911183645650073",
+      "country": "Germany"
+    }
+  ]
+}
