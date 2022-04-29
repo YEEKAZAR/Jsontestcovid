@@ -4,14 +4,14 @@
       "Rank": "1",
       "Total Case": "82789716",
       "Population": "334522343",
-      "Percent": "10.85",
+      "Percent": "50.05",
       "country": "Thailand"
     },
     {
       "Rank": "2",
       "Total Case": "43065666",
       "Population": "1404606308",
-      "Percent": "10.20",
+      "Percent": "40.20",
       "country": "USA"
     },
     {
@@ -19,21 +19,21 @@
       "Total Case": "30378061",
       "Total Recover": "",
       "Population": "215299307",
-      "Percent": "50.80",
+      "Percent": "30.80",
       "country": "China"
     },
     {
       "Rank": "4",
       "Total Case": "28415413",
       "Population": "65535419",
-      "Percent": "30.25",
+      "Percent": "20.25",
       "country": "France"
     },
     {
       "Rank": "5",
       "Total Case": "24363379",
       "Population": "84269739",
-      "Percent": "10.25",
+      "Percent": "50.25",
       "country": "INDIA"
     }
   ]
